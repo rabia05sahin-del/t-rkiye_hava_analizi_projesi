@@ -1,0 +1,8 @@
+{
+  "name": "Türkiye Hava Analizi ve Erken Uyarı Sistemi",
+  "description": "Türkiye genelindeki büyükşehirler için canlı hava durumu, PM10/PM2.5 hava kalitesi haritası, AI hava analizi asistanı ve erken uyarı bildirim sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
